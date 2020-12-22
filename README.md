@@ -7,6 +7,7 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 
  - [Books](#books)
  - [Courses](#courses)
+ - [Articles](#articles)
  - [Papers](#papers)
  - [Software](#software)
  - [Datasets](#datasets)
@@ -92,6 +93,17 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
  * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
  * [Optimization at MIT](http://optimization.mit.edu/classes.php) - (MIT)
  * [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (CMU)
+
+## Articles (can refer for theoritical knowledge as well as for codes)
+### Analytics Vidhya
+### Kdnuggets
+### Medium
+### Towards Data Science
+### machine learning mastery
+
+
+
+
 
 ## Papers
 
