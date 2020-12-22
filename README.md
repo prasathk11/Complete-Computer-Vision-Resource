@@ -11,7 +11,7 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
  - [Software](#software)
  - [Datasets](#datasets)
  - [Tutorials and Talks](#tutorials-and-talks)
- - [Researchers in Computer Visoin](#Researchers in Computer Visoin)
+ - [Researchers in Computer Visoin](#Researchers-in-Computer-Visoin)
 ## Books
 
 #### Computer Vision
