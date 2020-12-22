@@ -94,12 +94,13 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
  * [Optimization at MIT](http://optimization.mit.edu/classes.php) - (MIT)
  * [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (CMU)
 
-## Articles (can refer for theoritical knowledge as well as for codes)
+## Articles 
 ### Analytics Vidhya
 ### Kdnuggets
 ### Medium
 ### Towards Data Science
 ### machine learning mastery
+#### [can refer for theoritical knowledge as well as for codes]
 
 
 
