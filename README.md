@@ -99,11 +99,11 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 
 
 ## Articles 
-### Analytics Vidhya
-### Kdnuggets
-### Medium
-### Towards Data Science
-### machine learning mastery
+### * Analytics Vidhya
+### * Kdnuggets
+### * Medium
+### * Towards Data Science
+### * machine learning mastery
 #### [can refer for theoritical knowledge as well as for codes]
 
 
