@@ -48,22 +48,27 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 ## Courses
 
 #### Computer Vision
+ * [High-Level Vision: Behaviors, Neurons and Computational Models](http://vision.stanford.edu/teaching/cs431_spring1314/) - Fei-Fei Li (Stanford University)
  * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (UC Berkeley)
  * [Computer Vision](http://courses.cs.washington.edu/courses/cse455/12wi/) - Steve Seitz (University of Washington)
- * Visual Recognition [Spring 2020](http://vision.cs.utexas.edu/381V-spring2020/), [fall2020](http://vision.cs.utexas.edu/381V-fall2020/) - Kristen Grauman (UT Austin)
- * [Language and Vision](http://www.tamaraberg.com/teaching/Spring_15/) - Tamara Berg (UNC Chapel Hill)
- * [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) - Fei-Fei Li and Andrej Karpathy (Stanford University)
- * [Computer Vision](http://cs.nyu.edu/~fergus/teaching/vision/index.html) - Rob Fergus (NYU)
  * [Computer Vision](https://courses.engr.illinois.edu/cs543/sp2015/) - Derek Hoiem (UIUC)
- * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2021/index.html) - Kalanit Grill-Spector and Fei-Fei Li (Stanford University)
- * [High-Level Vision: Behaviors, Neurons and Computational Models](http://vision.stanford.edu/teaching/cs431_spring1314/) - Fei-Fei Li (Stanford University)
+ * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
  * [Advances in Computer Vision](http://6.869.csail.mit.edu/fa15/) - Antonio Torralba and Bill Freeman (MIT)
  * [Computer Vision](http://www.vision.rwth-aachen.de/course/11/) - Bastian Leibe (RWTH Aachen University)
  * [Computer Vision 2](http://www.vision.rwth-aachen.de/course/9/) - Bastian Leibe (RWTH Aachen University)
- * [Computer Vision](http://klewel.com/conferences/epfl-computer-vision/) Pascal Fua (EPFL):
  * [Computer Vision 1](http://cvlab-dresden.de/courses/computer-vision-1/) Carsten Rother (TU Dresden):
  * [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
- * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
+ * [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) - Fei-Fei Li and Andrej Karpathy (Stanford University)
+ * [Language and Vision](http://www.tamaraberg.com/teaching/Spring_15/) - Tamara Berg (UNC Chapel Hill)
+ * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2021/index.html) - Kalanit Grill-Spector and Fei-Fei Li (Stanford University)
+ * [Computer Vision](http://cs.nyu.edu/~fergus/teaching/vision/index.html) - Rob Fergus (NYU)
+ * Visual Recognition [Spring 2020](http://vision.cs.utexas.edu/381V-spring2020/), [fall2020](http://vision.cs.utexas.edu/381V-fall2020/) - Kristen Grauman (UT Austin)
+ * [Computer Vision](http://klewel.com/conferences/epfl-computer-vision/) Pascal Fua (EPFL):
+
+
+
+
+
 
 
 
@@ -71,9 +76,8 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 #### Computational Photography
 * [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
 * [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (CMU)
-* [Computational Photography](https://courses.engr.illinois.edu/cs498dh3/) - Derek Hoiem (UIUC)
-* [Computational Photography](http://cs.brown.edu/courses/csci1290/) - James Hays (Brown University)
 * [Digital & Computational Photography](http://stellar.mit.edu/S/course/6/sp12/6.815/) - Fredo Durand (MIT)
+* [Computational Photography](http://cs.brown.edu/courses/csci1290/) - James Hays (Brown University)
 * [Computational Camera and Photography](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/) - Ramesh Raskar (MIT Media Lab)
 * [Computational Photography](https://www.udacity.com/course/computational-photography--ud955) - Irfan Essa (Georgia Tech)
 * [Courses in Graphics](http://graphics.stanford.edu/courses/) - Stanford University
@@ -88,10 +92,11 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
- * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
- * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
  * [Optimization at MIT](http://optimization.mit.edu/classes.php) - (MIT)
+ * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
  * [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (CMU)
+ * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
+
 
 ## Articles 
 ### Analytics Vidhya
@@ -100,9 +105,6 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 ### Towards Data Science
 ### machine learning mastery
 #### [can refer for theoritical knowledge as well as for codes]
-
-
-
 
 
 ## Papers
@@ -189,18 +191,6 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
  * [Source Code Collection for Reproducible Research](http://www.csee.wvu.edu/~xinl/reproducible_research.html) - Xin Li (West Virginia University)
  * [CMU Computer Vision Page](http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/v-source.html)
 
-#### General Purpose Computer Vision Library
-* [Open CV](http://opencv.org/)
-* [mexopencv](http://kyamagu.github.io/mexopencv/)
-* [SimpleCV](http://simplecv.org/)
-* [Open source Python module for computer vision](https://github.com/jesolem/PCV)
-* [ccv: A Modern Computer Vision Library](https://github.com/liuliu/ccv)
-* [VLFeat](http://www.vlfeat.org/)
-* [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
-* [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
-* [PCL: Point Cloud Library](http://pointclouds.org/)
-* [ImageUtilities](https://gitorious.org/imageutilities)
-
 #### Multiple-view Computer Vision
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
 * [Peter Kovesi's Matlab Functions for Computer Vision and Image Analysis](http://staffhome.ecm.uwa.edu.au/~00011811/Research/MatlabFns/index.html)
@@ -215,6 +205,26 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
+
+#### General Purpose Computer Vision Library
+* [Open CV](http://opencv.org/)
+* [mexopencv](http://kyamagu.github.io/mexopencv/)
+* [SimpleCV](http://simplecv.org/)
+* [Open source Python module for computer vision](https://github.com/jesolem/PCV)
+* [ccv: A Modern Computer Vision Library](https://github.com/liuliu/ccv)
+* [VLFeat](http://www.vlfeat.org/)
+* [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
+* [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
+* [PCL: Point Cloud Library](http://pointclouds.org/)
+* [ImageUtilities](https://gitorious.org/imageutilities)
+
+
+#### High Dynamic Range Imaging
+* [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)
+
+
+#### Semantic Segmentation
+* [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
 
 
 #### Feature Detection and Extraction
@@ -231,12 +241,6 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 * [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
   * Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison, "KAZE Features", ECCV 2012
 * [Local Binary Patterns](https://github.com/nourani/LBP)
-
-#### High Dynamic Range Imaging
-* [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)
-
-#### Semantic Segmentation
-* [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
 
 #### Low-level Vision
 
@@ -449,6 +453,14 @@ Non-uniform Deblurring
  * [PMBP: PatchMatch Belief Propagation](https://github.com/fbesse/pmbp)
  * [TreeCANN](http://www.eng.tau.ac.il/~avidan/papers/TreeCANN_code_20121022.rar)
 
+
+#### Optimization
+ * [Ceres Solver](http://ceres-solver.org/) - Nonlinear least-square problem and unconstrained optimization solver
+ * [NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)- Nonlinear least-square problem and unconstrained optimization solver
+ * [OpenGM](http://hci.iwr.uni-heidelberg.de/opengm2/) - Factor graph based discrete optimization and inference solver
+ * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
+ 
+ 
 #### Visual Tracking
 * [Visual Tracker Benchmark](https://sites.google.com/site/trackerbenchmark/benchmarks/v10)
 * [Visual Tracking Challenge](http://www.votchallenge.net/)
@@ -466,14 +478,6 @@ Non-uniform Deblurring
 * [TGPR](http://www.dabi.temple.edu/~hbling/code/TGPR.htm)
 * [CF2: Hierarchical Convolutional Features for Visual Tracking](https://sites.google.com/site/jbhuang0604/publications/cf2)
 * [Modular Tracking Framework](http://webdocs.cs.ualberta.ca/~vis/mtf/index.html)
-
-
-
-#### Optimization
- * [Ceres Solver](http://ceres-solver.org/) - Nonlinear least-square problem and unconstrained optimization solver
- * [NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)- Nonlinear least-square problem and unconstrained optimization solver
- * [OpenGM](http://hci.iwr.uni-heidelberg.de/opengm2/) - Factor graph based discrete optimization and inference solver
- * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 
 ## Datasets
