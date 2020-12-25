@@ -76,13 +76,12 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 #### Computational Photography
 * [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
 * [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (CMU)
-* [Digital & Computational Photography](http://stellar.mit.edu/S/course/6/sp12/6.815/) - Fredo Durand (MIT)
-* [Computational Photography](http://cs.brown.edu/courses/csci1290/) - James Hays (Brown University)
+* [Computational Photography](https://cs.brown.edu/courses/csci1290/#:~:text=Course%20Description&text=Image%20manipulation%20uses%20computational%20techniques,Camera%20geometry%20and%20optics&text=Image%20filtering%20and%20image%20pyramids) - James Hays (Brown University)
 * [Computational Camera and Photography](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/) - Ramesh Raskar (MIT Media Lab)
 * [Computational Photography](https://www.udacity.com/course/computational-photography--ud955) - Irfan Essa (Georgia Tech)
-* [Courses in Graphics](http://graphics.stanford.edu/courses/) - Stanford University
+* [Courses in Graphics](https://graphics.stanford.edu/) - Stanford University
 * [Computational Photography](http://cs.nyu.edu/~fergus/teaching/comp_photo/index.html) - Rob Fergus (NYU)
-* [Introduction to Visual Computing](http://www.cs.toronto.edu/~kyros/courses/320/) - Kyros Kutulakos (University of Toronto)
+* [Introduction to Visual Computing](https://fas.calendar.utoronto.ca/course/csc320h1) - Kyros Kutulakos (University of Toronto)
 * [Computational Photography](http://www.cs.toronto.edu/~kyros/courses/2530/) - Kyros Kutulakos (University of Toronto)
 * [Computer Vision for Visual Effects](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
 * [Introduction to Image Processing](https://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
@@ -91,11 +90,12 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 
 
 #### Optimization
- * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
  * [Optimization at MIT](http://optimization.mit.edu/classes.php) - (MIT)
+ * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
  * [Convex Optimization II](http://stanford.edu/class/ee364b/) - Stephen Boyd (Stanford University)
  * [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) - Ryan Tibshirani (CMU)
- * [Convex Optimization](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about) - Stephen Boyd (Stanford University)
+ * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
+
 
 
 ## Articles 
@@ -112,10 +112,11 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 #### Conference papers on the web
  * [CVPapers](http://www.cvpapers.com/) - Computer vision papers on the web
  * [SIGGRAPH Paper on the web](http://kesen.realtimerendering.com/) - Graphics papers on the web
- * [NIPS Proceedings](http://papers.nips.cc/) - NIPS papers on the web
- * [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
- * [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (USC)
  * [Calendar of Computer Image Analysis, Computer Vision Conferences](http://iris.usc.edu/Information/Iris-Conferences.html) - (USC)
+ * [NIPS Proceedings](http://papers.nips.cc/) - NIPS papers on the web
+ * [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html) - Keith Price (USC)
+ * [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
+
 
 #### Survey Papers
  * [Visionbib Survey Paper List](http://surveys.visionbib.com/index.html)
@@ -133,15 +134,14 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
  - [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) - IPAM, 2013
 
 #### Recent Conference Talks
-- [CVPR 2015](http://www.pamitc.org/cvpr15/) - Jun 2015
-- [ECCV 2014](http://videolectures.net/eccv2014_zurich/) - Sep 2014
-- [CVPR 2014](http://techtalks.tv/cvpr-2014-oral-talks/) - Jun 2014
-- [ICCV 2013](http://techtalks.tv/iccv2013/) - Dec 2013
-- [ICML 2013](http://techtalks.tv/icml/2013/) - Jul 2013
-- [CVPR 2013](http://techtalks.tv/cvpr2013/) - Jun 2013
-- [ECCV 2012](http://videolectures.net/eccv2012_firenze/) - Oct 2012
-- [ICML 2012](http://techtalks.tv/icml/2012/orals/) - Jun 2012
-- [CVPR 2012](http://techtalks.tv/cvpr2012webcast/) - Jun 2012
+- [CVPR 2020](http://cvpr2020.thecvf.com/) 
+- [ECCV 2014](https://eccv2020.eu/) 
+- [CVF 2020](https://openaccess.thecvf.com/menu) 
+- [ICCV 2019](https://iccv2019.thecvf.com/) 
+- [ICCV 2020](https://www.myhuiban.com/conference/3631?lang=en_us)
+- [ICML 2020](https://icml.cc/Conferences/2020) 
+- [ECCV 2012](http://videolectures.net/eccv2012_firenze/) 
+- [ICML 2021](https://icml.cc/) 
 
 #### 3D Computer Vision
  * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington) 2011
@@ -161,22 +161,24 @@ Please feel free to send me [pull requests] or email (prasathkathiresan11@gmail.
 #### Computational Photography
  * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (Microsoft Research) 2013
  * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - William T. Freeman (MIT) 2011
- * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) -  Yair Weiss (The Hebrew University of Jerusalem) 2011
- * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/) -  Peyman Milanfar (UC Santa Cruz/Google) 2010
  * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/) Andrew Blake (Microsoft Research) 2007
  * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk) - William T. Freeman (MIT) 2012
+ * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) -  Yair Weiss (The Hebrew University of Jerusalem) 2011
+ * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/) -  Peyman Milanfar (UC Santa Cruz/Google) 2010
  * [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (MIT) 2012
  * [Overview of Computer Vision and Visual Effects](https://www.youtube.com/watch?v=rE-hVtytT-I) - Rich Radke (Rensselaer Polytechnic Institute) 2014
-
-#### Object Recognition
- * [Object Recognition](http://research.microsoft.com/apps/video/dl.aspx?id=231358) - Larry Zitnick (Microsoft Research)
- * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li) - Fei-Fei Li (Stanford University)
+ 
 
 #### Graphical Models
  * [Graphical Models for Computer Vision](http://videolectures.net/uai2012_felzenszwalb_computer_vision/?q=computer%20vision) - Pedro Felzenszwalb (Brown University) 2012
  * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/) - Zoubin Ghahramani (University of Cambridge) 2009
  * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/) - Sam Roweis (NYU) 2006
  * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) -  Yair Weiss (The Hebrew University of Jerusalem) 2009
+ 
+
+#### Object Recognition
+ * [Object Recognition](http://research.microsoft.com/apps/video/dl.aspx?id=231358) - Larry Zitnick (Microsoft Research)
+ * [Generative Models for Visual Objects and Object Recognition via Bayesian Inference](http://videolectures.net/mlas06_li_gmvoo/?q=Fei-Fei%20Li) - Fei-Fei Li (Stanford University)
 
 ## Software
 
